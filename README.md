@@ -1,12 +1,12 @@
-# Andreas Zerbian
+<p align="center">
+  <img src="banner.png" alt="Basti — Techniker, KI-Operator, Emsland" width="100%">
+</p>
 
-Technician. Problem-solver. AI-native operator in Germany.
+Techniker. Kein Entwickler.
 
-I am not a classically trained developer. I have never written production code by hand. I specify, review, and ship through agents.
+Ich schreibe keine Zeile selbst. Ich spezifiziere, prüfe, liefere. Agenten bauen.
 
-## Building
+**RiftRaze** — Godot-4 Survivor-like. Terrain ist die Waffe. Ziel: Steam.  
+**[MoodTech](https://moodtechsolutions.com)** — Web, lokale SEO, Automation für Betriebe im Emsland.
 
-- **RiftRaze** — a Godot 4 survivor-like. Terrain is the weapon. Steam is the target.
-- **[MoodTech Solutions](https://moodtechsolutions.com)** — automation and websites for local businesses.
-
-Public repos here will be tools I actually use. Private work stays private.
+Öffentlich kommt hier nur raus, was ich selbst benutze.
