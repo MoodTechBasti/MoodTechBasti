@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Basti — Technician, AI operator, Emsland" width="100%">
+  <img src="banner.png" alt="Basti — Technician, AI operator, North Germany" width="100%">
 </p>
 
 Technician. Not a developer.
