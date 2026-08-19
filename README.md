@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="banner.png" alt="Basti — Techniker, KI-Operator, Emsland" width="100%">
+  <img src="banner.png" alt="Basti — Technician, AI operator, Emsland" width="100%">
 </p>
 
-Techniker. Kein Entwickler.
+Technician. Not a developer.
 
-Ich schreibe keine Zeile selbst. Ich spezifiziere, prüfe, liefere. Agenten bauen.
+I don't write the code. I specify, review, ship. Agents build.
 
-**RiftRaze** — Godot-4 Survivor-like. Terrain ist die Waffe. Ziel: Steam.  
-**[MoodTech](https://moodtechsolutions.com)** — Web, lokale SEO, Automation für Betriebe im Emsland.
+**RiftRaze** — Godot 4 survivor-like. Terrain is the weapon. Steam is the target.  
+**[MoodTech](https://moodtechsolutions.com)** — sites, local SEO, automation for businesses in Emsland.
 
-Öffentlich kommt hier nur raus, was ich selbst benutze.
+What goes public here is only what I actually use.
